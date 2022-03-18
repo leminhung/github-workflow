@@ -1,1 +1,1 @@
-console.log("Never give up && hahaha");
+console.log("Never give up && Never settle down");
