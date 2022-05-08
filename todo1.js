@@ -1,2 +1,2 @@
 console.log("Today i learn");
-console.log("i don't know why");
+console.log("Today i learn2");
