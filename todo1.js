@@ -1,2 +1,2 @@
 console.log("Today i learn");
-console.log("Today fdhfdjhfdhfdhfdhfdhfdhfdfdh");
+console.log("Today i Le Minh Hung");
