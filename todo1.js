@@ -1,2 +1,2 @@
 console.log("Today i learn");
-console.log("Today i 88888888888888888888888888");
+console.log("Today i remote");
